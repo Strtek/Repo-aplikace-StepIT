@@ -69,3 +69,7 @@
     text-align: center;
     margin-top: 15px;
 }
+
+.alert-danger {
+    background-color: #f44336;
+}
